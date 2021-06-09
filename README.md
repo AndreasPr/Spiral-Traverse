@@ -1,3 +1,3 @@
-# Spiral Traverse-Algorithm
+# Spiral Traverse Algorithm
 
 Implementation in Java
